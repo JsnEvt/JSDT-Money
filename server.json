@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento",
+      "type": "income",
+      "category": "venda",
+      "price": 10000,
+      "createdAt": "2022-12-09T17:29:35.744Z"
+    },
+    {
+      "id": 2,
+      "description": "Alimentacao",
+      "type": "outcome",
+      "category": "despesas",
+      "price": 200,
+      "createdAt": "2022-12-06T17:29:35.744Z"
+    },
+    {
+      "id": 3,
+      "description": "Mercado",
+      "type": "outcome",
+      "category": "despesas",
+      "price": 1300,
+      "createdAt": "2022-12-09T17:29:35.744Z"
+    },
+    {
+      "description": "Manutencao predial",
+      "price": 500,
+      "category": "manutencoes",
+      "type": "outcome",
+      "createdAt": "2022-12-10T15:40:01.800Z",
+      "id": 4
+    },
+    {
+      "description": "Venda App",
+      "price": 13000,
+      "category": "Receitas",
+      "type": "income",
+      "createdAt": "2022-12-10T16:09:26.342Z",
+      "id": 5
+    }
+  ]
+}
