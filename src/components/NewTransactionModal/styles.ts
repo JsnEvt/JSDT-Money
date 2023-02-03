@@ -74,7 +74,8 @@ export const CloseButton = styled(Dialog.Close)`
 `
 
 
-export const TransactionType = styled(RadioGroup.Root)`
+export const TransactionType = styled(RadioGroup.Root)` //a combinacao do radiogroup com o botao
+//permite que o botao se comporte como se fosse um radiogroup, assim a selecao do botao ficara ativada.
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 1rem;
