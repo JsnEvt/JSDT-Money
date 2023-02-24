@@ -6,7 +6,11 @@ Web - Simples registro de receitas e despesas
 
 ### A proposta desta simples página segue o padrão da versão anterior, (JS_Finance).
 ### O foco desse desenvolimento foi a aplicação das novas tecnologias já mencionadas que tornam o código mais enxuto e coeso.
+### Com destaque especial para a biblioteca JSON-Server que fornece uma alimentação de dados fictícios para simular registros sem ter a necessidade
+### de ter um back-end implementado, permitindo que o desenvolvedor possa simular as operações sem depender do mesmo.
 
-![inicio]()
+## Telas:
 
-!(cadastro)()
+![inicio](https://github.com/JsnEvt/JSDT-Money/blob/main/img/resumo.png)
+
+!(cadastro)(https://github.com/JsnEvt/JSDT-Money/blob/main/img/cadastro.png)
