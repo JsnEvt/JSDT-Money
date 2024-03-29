@@ -61,11 +61,9 @@ DT Money - é uma aplicação web para simples registros de receitas e despesas.
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="Appfrontend" title="#Appfrontend" src="./img/resumo.png" width="400px">
-</p>
-
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="Appfrontend" title="#Appfrontend" src="./img/cadastro.png" width="400px">
 </p>
+
 
 ## 🚀 Como executar o projeto
 
