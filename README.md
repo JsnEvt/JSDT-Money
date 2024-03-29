@@ -1,7 +1,8 @@
 
 <p align="center">
 
-  <img alt="https://img.shields.io/github/repo-size/jsnevt/JSDT-Money">
+  <img alt="[https://img.shields.io/github/repo-size/jsnevt/JSDT-Money](https://img.shields.io/github/repo-size/jsnevt/jsdt-money
+)">
   
   <a href="https://github.com/jsnevt/README-JSDT-Money/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jsnevt/jsdt-money">
