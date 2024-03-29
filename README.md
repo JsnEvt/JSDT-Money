@@ -32,9 +32,10 @@
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-funcionalidades">Funcionalidades</a> •
+ <a href="#-funcionalidades">Funcionalidades</a> • 
+ <a href="#-layout">Layout</a> • 
  <a href="#-como-executar-o-projeto">Como executar</a> • 
- <a href="#-tecnologias">Tecnologias</a> •  
+ <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-autor">Autor</a> • 
  <a href="#user-content--licença">Licença</a>
 </p>
@@ -42,7 +43,7 @@
 
 ## 💻 Sobre o projeto
 
-DT Money - é uma aplicação para simples registros de receitas e despesas. 
+DT Money - é uma aplicação web para simples registros de receitas e despesas. 
 
 ---
 
@@ -50,10 +51,21 @@ DT Money - é uma aplicação para simples registros de receitas e despesas.
 
 - [x] Pessoas podem registrar suas receitas e suas despesas neste aplicativo simples.
 	- A aplicação usa a biblioteca JSON-Sever que fornece dados fictícios para simular registros sema a necessidade de 
-	- ter um backend implementado, permitindo que o desenvolvedor possa simular as operações sem depender do mesmo.
+	  ter um backend implementado, permitindo que o desenvolvedor possa simular as operações sem depender do mesmo.
 
 ---
 
+## 🎨 Layout - Web
+
+### Web
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="Appfrontend" title="#Appfrontend" src="./img/resumo.png" width="400px">
+</p>
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="Appfrontend" title="#Appfrontend" src="./img/cadastro.png" width="400px">
+</p>
 
 ## 🚀 Como executar o projeto
 
@@ -111,7 +123,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[https://www.radix-ui.com](https://github.com/radix-ui/primitives)**
 -   **[React-hook-form](https://github.com/react-hook-form/resolvers)**
 -   **[Styled-components](https://github.com/styled-components/styled-components)**
--   **[Vite](https://github.com/vitejs/vite)
+-   **[Vite](https://github.com/vitejs/vite)**
 -   **[Axios](https://github.com/axios/axios)**
 
 
