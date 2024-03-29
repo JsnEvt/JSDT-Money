@@ -1,7 +1,7 @@
 
 <p align="center">
 
-  <img alt="https://img.shields.io/github/repo-size/jsnevt/JSDT-Money">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jsnevt/JSDT-Money">
   
   <a href="https://github.com/jsnevt/README-JSDT-Money/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jsnevt/jsdt-money">
@@ -23,7 +23,7 @@
  
 </p>
 <h1 align="center">
-    <img alt="App_NLW_Rocketseat" title="#appnlwrocketseat" src="./assets/banner.png" />
+    <img alt="App_NLW_Rocketseat" title="#appnlwrocketseat" src="./img/banner.png" />
 </h1>
 
 <h4 align="center"> 
