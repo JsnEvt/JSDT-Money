@@ -49,8 +49,10 @@ DT Money - é uma aplicação web para simples registros de receitas e despesas.
 
 ## ⚙️ Funcionalidades
 
-- [x] Pessoas podem registrar suas receitas e suas despesas neste aplicativo simples.
-	- A aplicação usa a biblioteca JSON-Sever que fornece dados fictícios para simular registros sema a necessidade de 
+- [x] Pessoas podem registrar suas receitas e despesas neste aplicativo simples.
+
+- [ ] Característica:
+	- A aplicação usa a biblioteca JSON-Sever que fornece dados fictícios para simular registros sem a necessidade de 
 	  ter um backend implementado, permitindo que o desenvolvedor possa simular as operações sem depender do mesmo.
 
 ---
