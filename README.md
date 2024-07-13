@@ -23,7 +23,7 @@
  
 </p>
 <h1 align="center">
-    <img alt="App_NLW_Rocketseat" title="#appnlwrocketseat" src="./img/banner.png" />
+    <img alt="App_NLW_Rocketseat" title="#appnlwrocketseat" src="./img/cover.png" />
 </h1>
 
 <h4 align="center"> 
